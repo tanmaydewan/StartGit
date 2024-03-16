@@ -1,0 +1,5 @@
+git init
+git config --global user.name "Tanmay Dewan"
+git config --global user.email tddewan2@gmail.com
+git clone https://github.com/tanmaydewan/demo-mobile.git
+git remote add origin https://github.com/tanmaydewan/demo-mobile.git
